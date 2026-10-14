@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业基本面分析评估"
+  short_description: "基于最新公开披露完成上市公司基本面、护城河、估值与风险分析"
+  default_prompt: "使用 $company-fundamentals-analysis 分析指定上市公司的基本面、护城河、财务健康、估值与投资验证点。"

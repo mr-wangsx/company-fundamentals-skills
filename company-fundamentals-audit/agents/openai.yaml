@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业基本面核查校验"
+  short_description: "独立复核上市公司基本面报告、关键数据、估值假设与护城河证据"
+  default_prompt: "使用 $company-fundamentals-audit 独立核查指定公司的基本面分析，复算关键数据并执行护城河压力测试。"
