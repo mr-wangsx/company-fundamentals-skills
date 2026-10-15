@@ -1,6 +1,6 @@
 # 通用企业基本面研究 Agent Skills
 
-一组与模型、厂商和 Agent 平台无关的企业基本面研究 Skills，分离“形成投资判断”和“独立核查判断”两种职责。
+企业基本面研究 Skills，分为“形成投资判断”和“独立核查判断”两种职责。
 
 仓库采用通用的 `SKILL.md + YAML frontmatter + references + scripts` 目录结构，不包含特定厂商的 UI 元数据、专属调用语法、工具名称或安装路径。任何能够加载 Markdown Skill、读取相对路径文件的 Agent 运行时都可以集成；联网检索和 Python 脚本执行能力按任务需要提供。
 
